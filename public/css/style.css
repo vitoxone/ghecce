@@ -684,4 +684,17 @@ header .intro-text .tittle{
 	max-height: 60%;
 	display: inline-table;
 }
+
+#contact {
+	width: 100%;
+	max-height: 100%;
+	padding: 0;
+	background: linear-gradient(rgba(255,255,255,.7), rgba(255,255,255,.5)), url(../img/construction_small.jpg);
+	background-color: #e5e5e5;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+
+}
 }

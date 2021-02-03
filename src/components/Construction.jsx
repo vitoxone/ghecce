@@ -58,10 +58,6 @@ export class Construction extends Component {
             </div>
           </div>
         </div>
-        <div id="footer">
-          <div className="container text-center">
-          </div>
-        </div>
       </div>
     );
   }
