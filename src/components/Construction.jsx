@@ -45,7 +45,7 @@ export class Construction extends Component {
                   <ul>
                     <li>
                       <a
-                        href={"www.instagram.com/ghecce_"}
+                        href={"https://www.instagram.com/ghecce_/"}
                         rel="noreferrer" 
                         target="_blank"
                       >
