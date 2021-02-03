@@ -13,12 +13,9 @@ export class Construction extends Component {
             <div className="col-md-12">
               <div className="row">
                 <div className="contact-item">
-                  <p>
-                    <span>
-                      <i className="fa fa-map-marker"></i> Dirección
-                    </span>
-                    Rector Ruben Guevara Silva 903, Curicó
-                  </p>
+                    Somos una empresa curicana dedicada a la fabricación y comercialización de productos textiles, 
+                    nos especializamos en uniformes de trabajo, también nos gusta hacer ropa a la moda, comoda y de buena calidad.
+                 
                 </div>
                 <div className="contact-item">
                   <p>
